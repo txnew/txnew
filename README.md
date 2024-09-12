@@ -1,10 +1,14 @@
-![𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲](https://github.com/user-attachments/assets/9a2cff56-e281-447a-a761-9e0d5e3a0a99)
 ## Greetings and salutations from your friendly neighborhood programmer! 👋
+![𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲](https://github.com/user-attachments/assets/9a2cff56-e281-447a-a761-9e0d5e3a0a99)
 _Note: Access to repositories must be requested via LinkedIn to view!_
+## 
 
-**CURRENTLY IN PROGRESS**
+
+**CURRENTLY IN PROGRESS!! Thank you for visiting!~**
 
 <!--
+### Academia : Working Knowledge of Tech & Tools
+<img src="https://img.shields.io/badge/Python-WK?style=for-the-badge&logo=python&logoColor=%2345528E&logoSize=auto&labelColor=%23F4F2EA&color=%2345528E">
 **txnew/txnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
