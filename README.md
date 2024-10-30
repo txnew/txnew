@@ -1,6 +1,6 @@
 ## Greetings and salutations from your friendly neighborhood programmer! 👋
 ![𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐉𝐮𝐧𝐜𝐭𝐢𝐨𝐧: 𝐖𝐡𝐞𝐫𝐞 𝐂𝐨𝐝𝐞 𝐌𝐞𝐞𝐭𝐬 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲](https://github.com/user-attachments/assets/9a2cff56-e281-447a-a761-9e0d5e3a0a99)
-_Note: Access to academic repositories must be requested via LinkedIn to view!_
+_Note: Access to academic repository, UMGC Assignments, must be requested via <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=hz76vB6Ex0iYO1hBWd0aaZwLb2753GlDkssSgt47I8ZUQVlHOUY2WU5YSzRHMkdWVUNMQlVJVjdJWS4u">this form</a> to view!_
 ## 
 
 
@@ -11,8 +11,8 @@ My name is Toni! I am a `undergraduate student` at UMGC studying `Cybersecurity 
 I have a passion for continual learning and as a result, I'm always reading, listening to podcasts, and practicing my academic coursework through self-learning platforms to grow my understanding of core concepts. I do currently have a full-time position and balance a full-time courseload, so my progress on updating my work on GitHub and the self-learning platforms below is slow, but I actively make a point to practice coding throughout the week.
 
 #### Currently, I am...
-- 🎓 Learning how to design & implement data structures in Java (<a href="https://github.com/txnew/UMGC_Assignments">UMGC Assignments</a>)!
-- 📜 Working towards a Responsive Web Design Certification on <a href="https://www.freecodecamp.org/txnew">freecodecamp</a>!
+- 🎓 Learning how to design & implement data structures in Java (<a href="https://github.com/txnew/umgc-assignments">UMGC Assignments</a>)!
+- 📜 Working towards a Responsive Web Design Certification on <a href="https://www.freecodecamp.org/txnew">freecodecamp</a>! Check out the repo <a href="https://github.com/txnew/fcc-learning/">here</a>!
 - 🌱 Enrolled in Ethical Hacking - practicing application through <a href="https://tryhackme.com/r/p/txnew">TryHackMe</a> & <a href="https://txnew.carrd.co/#htbacademy">HTB Academy</a>!
 - 🏃 Applying for internships in Summer 2025, Winter 2025, and Summer 2026.
 - 📫 Available for questions and general discussion at: <a href="https://linkedin.com/in/txnew/">LinkedIn</a>!!
